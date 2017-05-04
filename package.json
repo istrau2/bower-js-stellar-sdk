@@ -1,6 +1,6 @@
 {
   "name": "js-stellar-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stellar SDK for the browser.",
   "main": "stellar-sdk.js",
   "productName": "Stellar SDK",
